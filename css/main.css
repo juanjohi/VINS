@@ -96,7 +96,7 @@ section {
 /* header */
 
 .header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/pump-2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/first.jpg);
     min-height: 100vh;
     background-position: center;
     background-size: cover;
@@ -270,7 +270,7 @@ section {
 }
 
 .feature-right {
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
 
 .feature-item {
@@ -299,7 +299,7 @@ section {
 /* video */
 
 .video {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/video-bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url(../assets/rig-e2.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -484,7 +484,7 @@ section {
 /* testimonial */
 
 .testimonial {
-    background-image: linear-gradient(rgba(27, 188, 156, 0.8), rgba(27, 188, 156, 0.9)), url(../assets/testimonial-bg.jpg);
+    background-image: linear-gradient(rgba(27, 188, 156, 0.8), rgba(27, 188, 156, 0.9)), url(../assets/cm.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
